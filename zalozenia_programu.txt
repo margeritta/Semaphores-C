@@ -1,5 +1,0 @@
-Za³o¿eniem programu jest inkrementowanie liczby w krytycznych blokach oraz dekrementowanie jej w normalnych blokach.
-Po wszystkim liczba powinna mieæ t¹ sam¹ wartoœæ co przed rozpoczêciem programu.
-
-Testujemy dzia³anie programu poprzez linijkê:
-assert(number == 0);
